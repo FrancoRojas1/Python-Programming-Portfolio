@@ -1,4 +1,4 @@
-## Python Programming Portfolio
+# Python Programming Portfolio
 
 # Project 1: 
 
