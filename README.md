@@ -1,17 +1,17 @@
 # Franco Rojas: Programming Portfolio
 
-# Project 1: 
+## Project 1 | Webiste Development: e-Commerce for 3D Printed Sustainable Products
 
-* Created a program that
-* Optimized ...
-* Engineered ...
+* Developed a e-commerce website using HTML5 and CSS for the front-end, and Python along with JavaScript for the back-end.
+* Used Flask framework for this project.
+* Applied Stripe API for payment processing functionality.
 
-# Project 2: 
+## Project 2 | App Development: Mobile Game for Android & iOS
 
-* Created a program that
-* Optimized ...
-* Engineered ...
+* Created a mobile app for gaming with Python.
+* Uploaded it to Play Store and Apple Store (pending).
 
 # Curriculum: Mechanical Engineer with Programming Expertise
 
-![(EN) CV Franco Rojas - Mechanical Engineer](https://user-images.githubusercontent.com/88156521/230790860-23931dfa-34f3-4afa-8c5c-554d29f2fda2.png)
+![](https://github.com/FrancoRojas1/Python-Programming-Portfolio/assets/88156521/bd65515b-f55b-4a61-af01-ba71b1538d43)
+![](https://github.com/FrancoRojas1/Python-Programming-Portfolio/assets/88156521/9b8bd6fa-a2d3-40fb-a0ea-7a370855732e)
